@@ -1,2 +1,0 @@
-# newsample
-some texts here
